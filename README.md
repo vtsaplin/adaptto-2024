@@ -1,6 +1,4 @@
-# adaptTo-2024 Slides
-
-> This repository contains the slides for the talk "Generative AI in AEM ecosystem: Opportunities and Challenges" at adaptTo() 2024.
+# Generative AI in AEM ecosystem: Opportunities and Challenges
 
 ## To view the slides
 
