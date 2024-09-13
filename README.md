@@ -1,6 +1,6 @@
-# Generative AI in AEM ecosystem: Opportunities and Challenges
+## Generative AI in AEM ecosystem: Opportunities and Challenges
 
-## To view the slides
+### To view the slides
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
